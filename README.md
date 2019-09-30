@@ -1,4 +1,4 @@
-# RPi-12864-LCD-ST7920-lib
+# RaspberryPi 12864 LCD Library (ST7920)
 
 An english translation and improvement from this original czech code: http://www.astromik.org/raspi/42.htm
 
